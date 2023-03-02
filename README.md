@@ -23,7 +23,7 @@ localhost:8080
 
 # Screenshot
 ### iOS Simulator
-![img.png](images/img_run_on_ios_simulator.png)
+<image width="240" src="images/img_run_on_ios_simulator.png">
 
 ### Web
 ![img_1.png](images/img_run_on_web.png)
